@@ -1,0 +1,29 @@
+
+cff-version: 1.2.0
+title: "Code for: Groundwater-dependent ecosystems decouple climatic suitability from safe woody restoration capacity in dryland shelterbelts"
+message: "If you use this code, please cite the archived repository DOI and the associated manuscript."
+type: software
+authors:
+  - family-names: Bo
+    given-names: Aohan
+  - family-names: Zhan
+    given-names: Hongbin
+  - family-names: Zhou
+    given-names: Jinxing
+  - family-names: Cheng
+    given-names: Yiben
+  - family-names: Li
+    given-names: Jingwen
+  - family-names: Yuan
+    given-names: Zixuan
+  - family-names: Yu
+    given-names: Tao
+  - family-names: Xin
+    given-names: Zhiming
+  - family-names: Chu
+    given-names: Lixia
+repository-code: "https://github.com/USERNAME/GDE-safe-woody-restoration-ThreeNorth"
+doi: "10.5281/zenodo.XXXXXXX"
+version: "1.0.0"
+date-released: "2026-07-05"
+license: MIT

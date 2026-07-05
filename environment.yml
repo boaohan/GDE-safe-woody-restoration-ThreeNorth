@@ -1,0 +1,15 @@
+
+name: gde-safe-restoration
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - rasterio
+  - scikit-learn
+  - matplotlib
+  - statsmodels
+  - patsy
+  - scipy
+  - shap
